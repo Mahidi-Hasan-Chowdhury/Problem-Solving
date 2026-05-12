@@ -10,11 +10,11 @@ int main()
         cin>>a[i];
     }
 
-    for (int i = n-1; i >= 0; i--)
-    {
-        cout<<a[i]<<" ";        
-    }
-    cout<<endl;
+    // for (int i = n-1; i >= 0; i--)
+    // {
+    //     cout<<a[i]<<" ";        
+    // }
+    // cout<<endl;
     
 
     // Two Pointer Approach

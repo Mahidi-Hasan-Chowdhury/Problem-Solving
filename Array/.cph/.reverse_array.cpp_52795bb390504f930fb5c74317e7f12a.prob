@@ -1,0 +1,1 @@
+{"name":"Local: reverse_array","url":"c:\\Users\\Mahedy2003\\Desktop\\Practice\\TopicWise\\Array\\reverse_array.cpp","tests":[{"id":1778607547404,"input":"5\n1 2 3 4 5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mahedy2003\\Desktop\\Practice\\TopicWise\\Array\\reverse_array.cpp","group":"local","local":true}
